@@ -1,0 +1,7 @@
+D:\Tests\MethodNewton\MethodNewton\bin\Debug\MethodNewton.exe.config
+D:\Tests\MethodNewton\MethodNewton\bin\Debug\MethodNewton.exe
+D:\Tests\MethodNewton\MethodNewton\bin\Debug\MethodNewton.pdb
+D:\Tests\MethodNewton\MethodNewton\obj\Debug\MethodNewton.csprojAssemblyReference.cache
+D:\Tests\MethodNewton\MethodNewton\obj\Debug\MethodNewton.csproj.CoreCompileInputs.cache
+D:\Tests\MethodNewton\MethodNewton\obj\Debug\MethodNewton.exe
+D:\Tests\MethodNewton\MethodNewton\obj\Debug\MethodNewton.pdb

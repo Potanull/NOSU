@@ -1,0 +1,7 @@
+D:\Tests\Integral\Integral\bin\Debug\Integral.exe.config
+D:\Tests\Integral\Integral\bin\Debug\Integral.exe
+D:\Tests\Integral\Integral\bin\Debug\Integral.pdb
+D:\Tests\Integral\Integral\obj\Debug\Integral.csprojAssemblyReference.cache
+D:\Tests\Integral\Integral\obj\Debug\Integral.csproj.CoreCompileInputs.cache
+D:\Tests\Integral\Integral\obj\Debug\Integral.exe
+D:\Tests\Integral\Integral\obj\Debug\Integral.pdb

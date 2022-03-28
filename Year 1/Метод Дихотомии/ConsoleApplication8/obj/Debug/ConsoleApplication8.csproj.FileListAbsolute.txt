@@ -1,0 +1,12 @@
+D:\ВЦНМО\Tanya21\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+D:\ВЦНМО\Tanya21\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+D:\ВЦНМО\Tanya21\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+D:\ВЦНМО\Tanya21\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+D:\ВЦНМО\Tanya21\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\Onigatari\Desktop\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Onigatari\Desktop\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Onigatari\Desktop\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Onigatari\Desktop\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojAssemblyReference.cache
+C:\Users\Onigatari\Desktop\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csproj.CoreCompileInputs.cache
+C:\Users\Onigatari\Desktop\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Onigatari\Desktop\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
